@@ -59,4 +59,4 @@ Agent 会自己 clone 到对应目录。
 
 ## License
 
-MIT
+[MIT](https://github.com/alonelightning/alonelightning-skills/blob/main/LICENSE)
