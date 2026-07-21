@@ -13,6 +13,7 @@
 | 名字 | 一句话 |
 |---|---|
 | ☁️ [aliyun-server-guide（阿里云服务器管家）](#-aliyun-server-guide阿里云服务器管家) | 帮零基础用户从零到上线阿里云服务器：选型→购买→部署→域名→备案，代操作 + 手动兜底 |
+| 📱 [social-media-content（社媒内容创作工作流）](#-social-media-content社媒内容创作工作流) | 多平台内容创作全链路约束：从选题到出图，核心价值是「约束 > 创意」，让 AI 产出稳定可控 |
 
 ---
 
@@ -34,6 +35,25 @@
 → [SKILL.md](/alonelightning/alonelightning-skills/blob/main/aliyun-server-guide/SKILL.md)
 
 > ⚠️ 政策与价格随阿里云调整，最终以阿里云控制台当前要求为准。本 skill 与阿里云官方无任何关联。
+
+---
+
+## 📱 social-media-content（社媒内容创作工作流）
+
+> 不是教你「怎么写爆款」，而是一套让 AI 内容产出**稳定可控**的工程化约束。
+
+核心理念一句话：**Skill 的价值在于约束，不在于创意。** 工具解决「能做什么」，这个 skill 解决「什么时候做、怎么做、做到什么标准」。覆盖小红书 / 视频号 / 公众号多平台，从选题、调研、写稿、审核到配图出图的全链路。
+
+**里面有什么**：
+- **13 步标准流程 + 阻断点**：每一步谁做、卡在哪要停下来问人
+- **配图 Prompt 四段式标准结构**：让 AI 出图时把中文文字准确渲染进图里（信息入图，正文只留钩子）
+- **🔴 两条最高红线**：来源归属（内容来自别人必须点名到人/出处，不点名=据为己有）+ 素材铁律（必带可核验原文链接，禁止凭记忆编来源）
+- **协作模式**：多 Agent 协作时「选题对齐 → 执行全权」，单篇单会话防止多篇互相污染致幻
+- **出图执行规范**：基于 Codex CLI 批量生图，含文本渲染质量检查
+
+**怎么触发**：`帮我写小红书文案` / `多平台内容分发` / `配图关键词` / `选题讨论`
+
+→ [SKILL.md](/alonelightning/alonelightning-skills/blob/main/social-media-content/SKILL.md) · [完整指南](/alonelightning/alonelightning-skills/blob/main/social-media-content/%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97.md)
 
 ---
 
